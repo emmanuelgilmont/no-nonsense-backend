@@ -41,7 +41,7 @@ reading about code you can't also go look at.
 | # | Chapter | Status |
 |---|---|---|
 | 1 | [Why every log line should tell a story](./by-project/01-transaction-token-starter.md) | ✅ |
-| 2 | Why you cache, and what can go wrong when you do | 🚧 |
+| 2 | [Why you cache, and what can go wrong when you do](./by-project/02-fx-rate-service.md) | ✅ |
 | 3 | What happens between two threads when you call a service | 🚧 |
 | 4 | Processing yesterday's trades, one chunk at a time | 🚧 |
 | 5 | Finding a needle in a NAS full of documents | 🚧 |
