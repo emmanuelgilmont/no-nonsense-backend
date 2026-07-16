@@ -42,7 +42,7 @@ reading about code you can't also go look at.
 |---|---|---|
 | 1 | [Why every log line should tell a story](./by-project/01-transaction-token-starter.md) | ✅ |
 | 2 | [Why you cache, and what can go wrong when you do](./by-project/02-fx-rate-service.md) | ✅ |
-| 3 | What happens between two threads when you call a service | 🚧 |
+| 3 | [What happens between two threads when you call a service](./by-project/03-grpc-price-service.md) | ✅ |
 | 4 | Processing yesterday's trades, one chunk at a time | 🚧 |
 | 5 | Finding a needle in a NAS full of documents | 🚧 |
 | 6 | The anchor: why event-driven matters in finance | 🚧 |
