@@ -51,8 +51,8 @@ reading about code you can't also go look at.
 
 | # | Chapter | Status |
 |---|---|---|
-| 7 | Talking to Discord from Java, for fun and automation | 🚧 |
-| 8 | Consuming a public API without overthinking it | 🚧 |
+| 7 | [Talking to Discord from Java, for fun and automation](./by-project/07-discord-service.md) | ✅ |
+| 8 | [Consuming a public API without overthinking it](./by-project/08-weather-service.md) | ✅ |
 
 ### By concept
 
