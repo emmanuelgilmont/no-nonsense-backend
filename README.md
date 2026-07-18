@@ -44,7 +44,7 @@ reading about code you can't also go look at.
 | 2 | [Why you cache, and what can go wrong when you do](./by-project/02-fx-rate-service.md) | ✅ |
 | 3 | [What happens between two threads when you call a service](./by-project/03-grpc-price-service.md) | ✅ |
 | 4 | [Processing yesterday's trades, one chunk at a time](./by-project/04-trade-settlement-batch.md) | ✅ |
-| 5 | Finding a needle in a NAS full of documents | 🚧 |
+| 5 | [Finding a needle in a NAS full of documents](./by-project/05-elasticsearch-formation-search.md) | ✅ |
 | 6 | The anchor: why event-driven matters in finance | 🚧 |
 
 ### Bonus: side projects
